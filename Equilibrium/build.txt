@@ -1,0 +1,3 @@
+displayName = Equilibrium
+author = Dice
+version = 0.1
